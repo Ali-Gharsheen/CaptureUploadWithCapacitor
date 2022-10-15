@@ -1,0 +1,7 @@
+{
+  "name": "useCameraWithCap",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
